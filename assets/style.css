@@ -1,0 +1,30 @@
+:root {
+  --soft-pink: #ffc3ce;
+  --gray: #636563;
+  --moss-green: #6B824A;
+  --seashell-white: #fff7ef;
+}
+
+#quiz-intro {
+  text-align: center;
+  color: var(--gray);
+}
+
+body {
+  background-color: var(--seashell-white);
+  cursor: pointer;
+}
+
+.startBtn {
+  text-align: center;
+}
+
+.quiz {
+  text-align: center;
+  color: var(--gray); 
+}
+
+.final-score {
+  text-align: center;
+  color: var(--gray); 
+}
